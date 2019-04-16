@@ -1,4 +1,5 @@
-﻿# Печатаем приветствие
+# Печатаем приветствие
 Print("Hello, World!!!!");
 Print("You are welcome");
 Print("Hello my dear Friends!") 
+Print("Привет, мой русскоязычные друзья!")
