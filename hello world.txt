@@ -1,3 +1,3 @@
 # Печатаем приветствие
-Print("Hello, World!!!!");
-Print("You are welcome")
+Print("Hello, World;");
+Print("You are welcome;")
